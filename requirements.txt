@@ -1,8 +1,9 @@
 streamlit
 torch
 transformers
+huggingface_hub
+sentence-transformers
 langchain
 langchain-community
-sentence-transformers
 faiss-cpu
-pypdf
+numpy
