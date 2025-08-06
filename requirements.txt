@@ -6,4 +6,5 @@ sentence-transformers
 langchain
 langchain-community
 faiss-cpu
-numpy
+PyPDF2
+numpy 
